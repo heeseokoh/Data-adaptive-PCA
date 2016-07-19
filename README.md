@@ -1,5 +1,5 @@
 # Data-adaptive-PCA
-Data-adaptive PCA is a dimension reduction technique proposed by Lim & Oh (2016). 
+Data-adaptive PCA is a dimension reduction technique proposed by Lim & Oh (2016). Conventional PCA uses covariance matrix of the data to extract principal components, so it has limitation that it may not perform well to skewed or asymmetric data. They discovered that linear combinations of asymmetric Huber density functions can represent various types of distribution, such as asymmetric or bimodal ones. Motivated from this,
 
 
 
