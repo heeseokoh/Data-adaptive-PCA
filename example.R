@@ -37,7 +37,6 @@
 
 ASIA<-grid_finder( c(120, 140) , c(30, 50)  ,  360,180,plot=FALSE)
 
-max_prec=data[seq(from=11,by=12,length=12),]
 y= max_prec[,ASIA]; 
 
 fit0 = comp_Pseudo(y, 4); 
