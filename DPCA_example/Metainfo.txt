@@ -1,0 +1,18 @@
+
+Name of Quantlet: 'DPCA_example’
+
+Published in: 'Lim, Y., Oh, H. S. (2016): A data-adaptive principal component analysis: Use of composite asymmetric Huber function. Journal of Computational and Graphical Statistics'
+
+Description: ‘Examples of using DPCA with daily maximum precipitation data in August during the period of year 1997 to 2008.’
+
+Keywords: principal component, pca, asymmetric, bimodal, Huber norm, weighted, percipitation
+
+See also: 'DPCA_source_code'
+
+Author: OH H. S., Lim Y.
+
+Submitted:  20160728 Burdejova Petra
+
+Datafile: max_prec.RData
+
+Example: ‘Examples of using DPCA with daily maximum precipitation data in August during the period of year 1997 to 2008. The data are available with loading max_prec.RData file. First from grid_finder function we find the indices of East Asia region, perform and plot loading matrices of first 4 PCs. We may produce some results, which is dpca_loading2.pdf. Finally, we plot 4 PCs as a time series, which is dpca_pcs.pdf.’
