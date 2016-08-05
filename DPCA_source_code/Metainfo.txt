@@ -1,5 +1,4 @@
-
-Name of Quantlet: 'DPCA_source_code'
+Name of Quantlet: DPCA_source_code
 
 Published in: 'Lim, Y., Oh, H. S. (2016): A data-adaptive principal component analysis: Use of composite asymmetric Huber function. Journal of Computational and Graphical Statistics'
 
@@ -7,9 +6,9 @@ Description: ‘Function comp_Pseudo which returns loadings of DPCA and contribu
 
 Keywords: principal component, pca, asymmetric, bimodal, Huber norm, weighted
 
-See also: 'DPCA_example’
+See also: DPCA_example
 
-Author: OH H. S., Lim Y.
+Author: ‘OH H. S., Lim Y.’
 
 Submitted:  20160728 Burdejova Petra
 

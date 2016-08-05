@@ -1,5 +1,5 @@
 
-Name of Quantlet: 'DPCA_example’
+Name of Quantlet: DPCA_example
 
 Published in: 'Lim, Y., Oh, H. S. (2016): A data-adaptive principal component analysis: Use of composite asymmetric Huber function. Journal of Computational and Graphical Statistics'
 
